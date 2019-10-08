@@ -10,7 +10,7 @@
 Установите virtualbox, также установите windows 10 или windows 7.
 
 Задание 2.
-С помощью postman создайте тест-сьют для тестирования api формы.
+С помощью postman создайте тест-сьют для тестирования api формы входа http://dev2.lab-27.ru/ (w@w.w / w)
 
 https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d
 
