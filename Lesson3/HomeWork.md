@@ -12,5 +12,9 @@
 Задание 2.
 С помощью postman создайте тест-сьют для тестирования api формы.
 
+https://medium.com/aubergine-solutions/api-testing-using-postman-323670c89f6d
+
 Задание 3. 
 С помощью css составьте путь к поллю ввода имени и кнопке отправить на http://brunoyam.com
+
+https://m.habr.com/ru/company/otus/blog/350368/
