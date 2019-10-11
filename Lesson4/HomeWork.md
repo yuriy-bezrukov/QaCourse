@@ -1,13 +1,11 @@
 1 Установить node.js
 
 2
-Скачать https://github.com/bezrukovyura/QaCourse/tree/master/Lesson4/selenium-javascript с помощью http://kinolien.github.io/gitzip/
+Скачать https://github.com/bezrukovyura/typescript-selenium/archive/master.zip
 
-Открыть powershell или cmd и перейти в папку из распакованного архива
-Выполнить команды:
- - npm i
- - npm run test
- Разобраться в содержимом файла test.js
+- Прочитать содержимое https://github.com/bezrukovyura/typescript-selenium/blob/master/README.md
+- Запустить тест
+- Разобраться в содержимом файла test.js
 
 3
 Модифицировать файл test.js так, чтобы производить автоматизированное тестирование 
