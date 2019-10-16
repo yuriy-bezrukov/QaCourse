@@ -17,7 +17,7 @@ shop1
 | 1  | 1 | 33 |
 | 2  | 3  | 24|
 
-shop1
+shop2
 
 |  id(Int IA) |idPhone(Text)   | sales(Int)   |
 |---|---|---|
