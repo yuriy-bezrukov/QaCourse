@@ -6,7 +6,7 @@
 | ------------- | ------------- |
 | 1  |  [Что такое тестирование и тест-дизайн.](https://github.com/bezrukovyura/QaCourse/tree/master/Lesson1 "Книги для изучения тестирования ПО") |
 | 2  | Agile/Scrum. Http/Soap/Rest/xml/json. Postman |
-| 3  | Тестирование mobile, desktop, web приложений.  |
+| 3  | Тестирование mobile, desktop, web приложений. Виртуальные машины |
 | 4  |[Тест сьюты, кейсы, баг репорты. Jira. TestRail. / Тестирование web приложений. Chrome devTools](https://github.com/bezrukovyura/QaCourse/tree/master/Lesson1 "Создание тест-кейсов и баг-репортов на практических примерах")|
 | 5  | Javascript. NPM пакеты, NodeJs. Selenium. CSS/xPath Автоматизированные тесты |
 | 6  | Javascript. NPM пакеты, NodeJs. Selenium. CSS/xPath Автоматизированные тесты |
@@ -47,11 +47,11 @@
 </details>
 
 <details>
-  <summary>3 Chrome devTools</summary>
+  <summary>3 Виртуальные машины</summary>
 
   1. 131-136 Савин.  Тестирование dot com
-  2.  
-  3. 
+  2. Установите две vm (windows и android)
+  3. Настройте локальную сеть между ними
 </details>
 
 <details>
@@ -82,8 +82,8 @@
   <summary>7 Нефункциональные виды тестирования</summary>
 
   1. 169-257 Савин.  Тестирование dot com
-  2. Написать тесты для страницы
-  3. Разобраться с устройством проекта
+  3. Прочитать https://livetyping.com/ru/blog/chto-nuzhno-znat-i-umet-chtoby-rabotat-testirovshikom
+  2. Придумать нефункциональные тесты для карандаша.
 </details>
 
 
