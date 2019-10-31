@@ -24,7 +24,7 @@
   
   1. 10-63 Савин.  Тестирование dot com
   2. Сделать шааблонный вариант тест-кейса в excel
-  3. Написать тесты как минимум с помощью 4х видов тест-дизайна https://codepen.io/bezrukovyra/pen/OJLKyqe
+  3. Написать тесты как минимум с помощью 4х видов тест-дизайна https://codepen.io/bezrukovyra/full/OJLKyqe
   
 </details>
 
