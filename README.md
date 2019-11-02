@@ -33,7 +33,11 @@
 
   1. 67-131 Савин.  Тестирование dot com
   2. Установить Postman
-  3. Написать тесты api формы входа через postman
+  3. Написать тесты api формы входа через postman 
+
+  https://github.com/bezrukovyura/QaCourse/tree/master/Lesson2
+  https://learning.getpostman.com/docs/postman/scripts/test-scripts/
+  https://learning.getpostman.com/docs/postman/scripts/test-examples/
 </details>
 
 <details>
