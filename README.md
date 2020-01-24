@@ -76,8 +76,9 @@
   <summary>7 Нефункциональные виды тестирования</summary>
 
   1. 169-257 Савин.  Тестирование dot com
-  3. Прочитать https://livetyping.com/ru/blog/chto-nuzhno-znat-i-umet-chtoby-rabotat-testirovshikom
+  2. Прочитать https://livetyping.com/ru/blog/chto-nuzhno-znat-i-umet-chtoby-rabotat-testirovshikom
   2. Придумать нефункциональные тесты для карандаша.
+  4. Test-plans https://github.com/bezrukovyura/QaCourse/tree/master/Lesson7
 </details>
 
 
